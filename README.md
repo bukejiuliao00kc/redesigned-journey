@@ -1,1 +1,1 @@
-{"rede":"22", "signed":"https://www.baidu.com", "journey":""}
+{"rede":"99", "signed":"http:\/\/wap.sclichang.com/", "journey":""}
