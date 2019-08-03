@@ -1,1 +1,1 @@
-{"rede":"99", "signed":"http:\/\/wap.sclichang.com/", "journey":""}
+{"rede":"100", "signed":"signed", "journey":""}
