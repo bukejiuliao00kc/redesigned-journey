@@ -1,1 +1,1 @@
-{"rede":"100", "signed":"signed", "journey":""}
+{"rede":"99", "signed":"signed", "journey":""}
